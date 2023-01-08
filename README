@@ -1,0 +1,7 @@
+Complete simple census system in php, ajax, javascript and mysql database. It has client user interface where one can login to fill his/her census details and admin dashboard where admin can view all census details. New user has to create new account to fill in census details
+
+login details for admin are email: admin@gmail.com password Au123456
+
+login details for test user
+
+email test@gmail.com password Tu123456
